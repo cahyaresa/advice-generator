@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [advice generator github](https://github.com/cahyaresa/advice-generator)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
