@@ -32,7 +32,7 @@ function App() {
       >
         <article className="relative flex flex-col items-center align-middle justify-center md:min-w-500 md:max-w-750 rounded-xl md:px-8 min-w-0 p-0">
           <p className="id-advice py-5 text-neonGreen text-sm tracking-widest font-bold">
-            ADVICE ## {adviceId}
+            <h4>ADVICE ## {adviceId}</h4>
           </p>
           <blockquote className="lg:py-12 lg:text-3xl font-bold text-lightCyan tracking-wider after:ml-0.5 after:text-red-500 ">
             <p>&quot;{advice}&quot;</p>
@@ -48,6 +48,7 @@ function App() {
           </picture>
           <button
             role="button"
+            title="generate-advice-button"
             className="absolute -bottom-7 p-5 bg-neonGreen shadow-2xl hover:shadow-neonGreen rounded-full"
             onClick={setAdviced}
           >
