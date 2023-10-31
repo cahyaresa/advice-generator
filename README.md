@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [advice generator github](https://github.com/cahyaresa/advice-generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [advice generator live preview](https://advice-generator-psi-eight.vercel.app/)
 
 ## My process
 
