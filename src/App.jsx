@@ -27,7 +27,7 @@ function App() {
   return (
     <>
       <main
-        role="body"
+        role="main"
         className="bg-dark-grayish-blue rounded-xl font-manrope"
       >
         <article className="relative flex flex-col items-center align-middle justify-center md:min-w-500 md:max-w-750 rounded-xl md:px-8 min-w-0 p-0">
@@ -47,6 +47,7 @@ function App() {
             <img src={divideMobile} alt="divider" />
           </picture>
           <button
+            role="button"
             className="absolute -bottom-7 p-5 bg-neonGreen shadow-2xl hover:shadow-neonGreen rounded-full"
             onClick={setAdviced}
           >
